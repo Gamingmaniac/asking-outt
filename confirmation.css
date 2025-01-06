@@ -108,7 +108,7 @@ ul#cart-items li {
 .snowflake {
   position: absolute;
   top: -10px;
-  background-color: pink;
+  background-color: #82013d;
   border-radius: 50%;
   opacity: 0.8;
   pointer-events: none;
